@@ -53,3 +53,11 @@
     > Plan Key Points
         > Journal how you get on, what you are struggling on.
         > Come up with resources to help you with what you are struggling on.
+
+> Journal
+    > Front-End Engineer
+        >
+    > Back-End Engineer
+        >  
+    > Database Engineer
+        >
